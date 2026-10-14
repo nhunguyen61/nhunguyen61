@@ -1,4 +1,4 @@
-# Hi, I'm Nhu (Julie) Nguyen 👋
+# Hi, I'm Nhu Nguyen 👋
 
 **Business Analytics graduate student @ University of Wollongong · Wollongong, NSW**
 
