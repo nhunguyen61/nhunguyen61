@@ -24,13 +24,13 @@ I use data to answer commercial questions — which markets to prioritise, which
 - Identified **Vietnam** as the top growth market (**33.2%** 3-year CAGR); its SARIMA model beat naive benchmarks with **14.13%** out-of-sample MAPE
 - Built a 3-page Power BI decision dashboard with simulated forecast intervals
 
-### 🧸 [Where is a toy manufacturer's value created — and where is it at risk?](https://github.com/nhunguyen61/toy-customer-intelligence)
+### 🧸 [Where is a toy manufacturer's value created — and where is it at risk?](https://github.com/nhunguyen61/insight-toys-customer-intelligence)
 *Python · SAS Visual Analytics · 1.6M transactions*
 - Found that **4.6%** of customers generated **29.7%** of revenue, using K-means segmentation of 39,327 customers
 - Compared 7 forecasting models on a holdout period; the selected regression model achieved **6.02% MAPE**, half the error of the next best
 - Turned findings into three pilot-based recommendations with owners, KPIs and decision gates
 
-### ✉️ [Which donors will respond to a direct-mail appeal?](https://github.com/nhunguyen61/donor-response-modelling)
+### ✉️ [Which donors will respond to a direct-mail appeal?](https://github.com/nhunguyen61/donor-response-prediction)
 *Python · scikit-learn · XGBoost · SHAP*
 - Detected that the dataset replicated each donor **~11 times**, inflating model AUC to **0.98**
 - Rebuilt the evaluation with de-duplication and cross-validation: true AUC **0.61**; mailing the top 20% raised response from **50% to 64%**
