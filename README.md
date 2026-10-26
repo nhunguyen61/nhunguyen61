@@ -54,4 +54,4 @@ Before analytics, I worked in B2B export sales and partnership development in Vi
 🌏 Vietnamese (native) · English (professional)
 
 ## 📫 Let's connect
-[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/nguyen-nhu-3b1513225/) · chaunhu612004@gmail.com
+(https://www.linkedin.com/in/nguyen-nhu-3b1513225/) · chaunhu612004@gmail.com
